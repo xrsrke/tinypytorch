@@ -150,5 +150,6 @@ checklink/cookies.txt
 .quarto
 
 # dataset
-nbs/mnist.pkl
-tinypytorch/mnist.pkl
+datasets/mnist.pkl
+nbs_xx/*
+/.quarto/

@@ -1,0 +1,10 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_core.ipynb
+      - 00_template.ipynb
+      - 01_data.ipynb
+      - 02_model.ipynb
+      - 02_tests.test_model.ipynb
+      - 02a_matmul.ipynb
